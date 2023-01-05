@@ -53,4 +53,3 @@ References:
 1.	https://lifelines.readthedocs.io/en/latest/index.html
 2.	https://scikit-survival.readthedocs.io/en/stable/
 
-Python Code
